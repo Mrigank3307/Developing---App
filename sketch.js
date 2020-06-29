@@ -101,7 +101,7 @@ else if (gameState === "instructions") {
 ide.html ("Ideas for the app")
 ide.position (10 , 160)
 
-ideas.html ("Some ideas for the app are, (1) To integrate the apps into sort of games (2) Better animations in the app (3) Question Answers feature where students can ask and teachers can answer questions (4) A compete feature that allows you to copete with others")
+ideas.html ("Some ideas for the app are, (1) To integrate the apps into sort of games (2) Better animations in the app (3) Question Answers feature where students can ask and teachers can answer questions (4) A compete feature that allows you to compete with others in real time (5) A video feature which helps teachers give their videos as a refference to the lesson")
 ideas.position (10 , 210)
 }
 
